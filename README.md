@@ -1,2 +1,2 @@
 # simple-weather-app
-# using DOM 
+Application to look the weather in different places 
